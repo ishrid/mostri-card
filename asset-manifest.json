@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mostri-card/static/css/main.0f581664.chunk.css",
+    "main.js": "/mostri-card/static/js/main.695f2628.chunk.js",
+    "main.js.map": "/mostri-card/static/js/main.695f2628.chunk.js.map",
+    "runtime-main.js": "/mostri-card/static/js/runtime-main.b8e19f47.js",
+    "runtime-main.js.map": "/mostri-card/static/js/runtime-main.b8e19f47.js.map",
+    "static/js/2.d9b9c709.chunk.js": "/mostri-card/static/js/2.d9b9c709.chunk.js",
+    "static/js/2.d9b9c709.chunk.js.map": "/mostri-card/static/js/2.d9b9c709.chunk.js.map",
+    "static/js/3.8460bf26.chunk.js": "/mostri-card/static/js/3.8460bf26.chunk.js",
+    "static/js/3.8460bf26.chunk.js.map": "/mostri-card/static/js/3.8460bf26.chunk.js.map",
+    "index.html": "/mostri-card/index.html",
+    "static/css/main.0f581664.chunk.css.map": "/mostri-card/static/css/main.0f581664.chunk.css.map",
+    "static/js/2.d9b9c709.chunk.js.LICENSE.txt": "/mostri-card/static/js/2.d9b9c709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e19f47.js",
+    "static/js/2.d9b9c709.chunk.js",
+    "static/css/main.0f581664.chunk.css",
+    "static/js/main.695f2628.chunk.js"
+  ]
+}
